@@ -1,4 +1,4 @@
-# food-not-food
+# food classifier app
 
 Machine Learning powered app to decide whether a photo is food or not.
 
