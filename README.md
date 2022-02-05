@@ -8,11 +8,6 @@ Machine Learning powered app to decide whether a photo is food or not.
 * Fix output predict probability
 * Make way to say whether model was correct or not (log this somewhere)
 
-
-What we're building (except for food not food):
-
-<img src="images/hotdog-not-hotdog.jpeg"/>
-
 ## Dataset
 
 Want to build a dataset of 10,000~ food and 10,000~ not food images (these numbers can go up if needed).
